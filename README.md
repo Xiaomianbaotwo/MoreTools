@@ -41,7 +41,7 @@ If you encounter bugs with the copper equipment or have suggestions, please open
 ## Tips
 - **For more content, see modrinth the changelog.URL:https://modrinth.com/mod/more-tools-1.21.1+**
 
-# 以下是中文介绍
+# 以下是中文介绍（微软的自动翻译很烂，所以我直接把中文放出来了，我用豆包翻译成英文的）
 
 # 更多工具
 一款轻量级的 Minecraft 模组，扩展了游戏的工具/装备系统，首期加入了 Minecraft 1.21.9 版本新增的铜制装备。
