@@ -1,1 +1,84 @@
-# MoreTools
+# \# More Tools
+
+# A lightweight Minecraft mod that expands the game's tool/equipment system, starting with the new copper equipment introduced in Minecraft 1.21.9.
+
+# 
+
+# \## Current Features (v0.1.0)
+
+# \- Fully implemented \*\*Copper Equipment Set\*\* (aligned with Minecraft 1.21.9's official design):
+
+#   - Copper Sword (balanced damage/durability between wooden and iron swords)
+
+#   - Copper Pickaxe (mines stone/coal faster than wooden pickaxe, with moderate durability)
+
+#   - Copper Axe (efficient for chopping wood, slight bonus to oak/spruce logs)
+
+#   - Copper Shovel (improved sand/gravel mining speed)
+
+#   - Copper Armor Set (Helmet, Chestplate, Leggings, Boots)
+
+#     - Provides better protection than leather armor
+
+#     - Has a unique slight corrosion visual effect (cosmetic only, no gameplay impact)
+
+# \- All copper equipment uses vanilla Minecraft crafting recipes (consistent with 1.21.9's copper item crafting logic)
+
+# 
+
+# \## Development Status
+
+# ✅ Implemented: Copper equipment (full set) from Minecraft 1.21.9
+
+# 🚧 In Progress: Additional tool/equipment types (TBD)
+
+# ❌ Not Started: Custom enchantments, unique copper equipment effects
+
+# 
+
+# \## Requirements
+
+# \- Minecraft Java Edition: 1.21.9
+
+# \- Mod Loader: NeoForge 21.9.x (compatible with 1.21.9)
+
+# \- Java Version: 21 (minimum)
+
+# 
+
+# \## Installation
+
+# 1\. Install NeoForge 21.9.x for Minecraft 1.21.9
+
+# 2\. Place the `MoreTools-0.1.0.jar` file into your `.minecraft/mods` folder
+
+# 3\. Launch Minecraft with the NeoForge profile
+
+# 
+
+# \## Crafting Recipes (Vanilla-Compatible)
+
+# All copper equipment uses standard vanilla crafting patterns:
+
+# \- Copper Sword: 2x Copper Ingots + 1x Stick
+
+# \- Copper Pickaxe: 3x Copper Ingots + 2x Sticks
+
+# \- Copper Armor: 8x Copper Ingots (for full set, standard armor crafting layout)
+
+# 
+
+# \## Future Plans
+
+# \- Add custom copper equipment enchantments (e.g., "Corrosion Resistance")
+
+# \- Introduce other new tool sets (e.g., tin, lead)
+
+# \- Balance adjustments based on community feedback
+
+# 
+
+# \## Issues \& Feedback
+
+# If you encounter bugs with the copper equipment or have suggestions, please open an issue on this repository.
+
