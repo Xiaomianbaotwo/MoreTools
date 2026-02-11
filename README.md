@@ -1,7 +1,7 @@
 # More Tools
 A lightweight Minecraft mod that expands the game's tool/equipment system, starting with the new copper equipment introduced in Minecraft 1.21.9.
 
-## Current Features (v0.1.0)
+## Current Features (v1.0.0)
 - Fully implemented **Copper Equipment Set** (aligned with Minecraft 1.21.9's official design):
   - Copper Sword (balanced damage/durability between wooden and iron swords)
   - Copper Pickaxe (mines stone/coal faster than wooden pickaxe, with moderate durability)
