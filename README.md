@@ -39,7 +39,7 @@ All copper equipment uses standard vanilla crafting patterns:
 ## Issues & Feedback
 If you encounter bugs with the copper equipment or have suggestions, please open an issue on this repository.
 
-#以下是中文介绍
+# 以下是中文介绍
 
 # 更多工具
 一款轻量级的 Minecraft 模组，扩展了游戏的工具/装备系统，首期加入了 Minecraft 1.21.9 版本新增的铜制装备。
