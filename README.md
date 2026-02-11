@@ -9,7 +9,6 @@ A lightweight Minecraft mod that expands the game's tool/equipment system, start
   - Copper Shovel (improved sand/gravel mining speed)
   - Copper Armor Set (Helmet, Chestplate, Leggings, Boots)
     - Provides better protection than leather armor
-    - Has a unique slight corrosion visual effect (cosmetic only, no gameplay impact)
 - All copper equipment uses vanilla Minecraft crafting recipes (consistent with 1.21.9's copper item crafting logic)
 
 ## Development Status
