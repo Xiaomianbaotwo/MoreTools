@@ -1,0 +1,315 @@
+{
+  "mod_elements": [
+    {
+      "name": "CopperSword",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_sword",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moretools/item/CopperSwordItem.java",
+          "src/main/resources/assets/more_tools/models/item/copper_sword.json"
+        ]
+      }
+    },
+    {
+      "name": "CopperPickaxe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_pickaxe",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moretools/item/CopperPickaxeItem.java",
+          "src/main/resources/assets/more_tools/models/item/copper_pickaxe.json"
+        ]
+      }
+    },
+    {
+      "name": "CopperAxe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_axe",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moretools/item/CopperAxeItem.java",
+          "src/main/resources/assets/more_tools/models/item/copper_axe.json"
+        ]
+      }
+    },
+    {
+      "name": "CopperShovel",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_shovel",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moretools/item/CopperShovelItem.java",
+          "src/main/resources/assets/more_tools/models/item/copper_shovel.json"
+        ]
+      }
+    },
+    {
+      "name": "CopperHoe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_hoe",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moretools/item/CopperHoeItem.java",
+          "src/main/resources/assets/more_tools/models/item/copper_hoe.json"
+        ]
+      }
+    },
+    {
+      "name": "CopperArmor",
+      "type": "armor",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_armor",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moretools/item/CopperArmorItem.java",
+          "src/main/resources/assets/more_tools/models/item/copper_armor_leggings.json",
+          "src/main/resources/assets/more_tools/models/item/copper_armor_boots.json",
+          "src/main/resources/assets/more_tools/models/item/copper_armor_chestplate.json",
+          "src/main/resources/assets/more_tools/models/item/copper_armor_helmet.json"
+        ]
+      }
+    },
+    {
+      "name": "CoopperSwordRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coopper_sword_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/more_tools/advancement/recipes/coopper_sword_recipe.json",
+          "src/main/resources/data/more_tools/recipe/coopper_sword_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "CopperPickaxeRecipes",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_pickaxe_recipes",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/more_tools/recipe/copper_pickaxe_recipes.json",
+          "src/main/resources/data/more_tools/advancement/recipes/copper_pickaxe_recipes.json"
+        ]
+      }
+    },
+    {
+      "name": "CopperAxeRecipes",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_axe_recipes",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/more_tools/recipe/copper_axe_recipes.json",
+          "src/main/resources/data/more_tools/advancement/recipes/copper_axe_recipes.json"
+        ]
+      }
+    },
+    {
+      "name": "CopperAxeRecipes2",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_axe_recipes_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/more_tools/recipe/copper_axe_recipes_2.json",
+          "src/main/resources/data/more_tools/advancement/recipes/copper_axe_recipes_2.json"
+        ]
+      }
+    },
+    {
+      "name": "CopperShovelRecipes",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_shovel_recipes",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/more_tools/advancement/recipes/copper_shovel_recipes.json",
+          "src/main/resources/data/more_tools/recipe/copper_shovel_recipes.json"
+        ]
+      }
+    },
+    {
+      "name": "CopperHoeRecipes",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_hoe_recipes",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/more_tools/advancement/recipes/copper_hoe_recipes.json",
+          "src/main/resources/data/more_tools/recipe/copper_hoe_recipes.json"
+        ]
+      }
+    },
+    {
+      "name": "CopperHoeRecipes2",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_hoe_recipes_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/more_tools/advancement/recipes/copper_hoe_recipes_2.json",
+          "src/main/resources/data/more_tools/recipe/copper_hoe_recipes_2.json"
+        ]
+      }
+    },
+    {
+      "name": "CopperArmorRecipes1",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_armor_recipes_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/more_tools/recipe/copper_armor_recipes_1.json",
+          "src/main/resources/data/more_tools/advancement/recipes/copper_armor_recipes_1.json"
+        ]
+      }
+    },
+    {
+      "name": "CopperArmorRecipes2",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_armor_recipes_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/more_tools/recipe/copper_armor_recipes_2.json",
+          "src/main/resources/data/more_tools/advancement/recipes/copper_armor_recipes_2.json"
+        ]
+      }
+    },
+    {
+      "name": "CopperArmorRecipes3",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_armor_recipes_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/more_tools/advancement/recipes/copper_armor_recipes_3.json",
+          "src/main/resources/data/more_tools/recipe/copper_armor_recipes_3.json"
+        ]
+      }
+    },
+    {
+      "name": "CopperArmorRecipes4",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_armor_recipes_4",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/more_tools/advancement/recipes/copper_armor_recipes_4.json",
+          "src/main/resources/data/more_tools/recipe/copper_armor_recipes_4.json"
+        ]
+      }
+    },
+    {
+      "name": "CopperTools",
+      "type": "achievement",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_tools",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/more_tools/advancement/copper_tools.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {
+    "ITEMS:minecraft:swords": [
+      "~CUSTOM:CopperSword"
+    ],
+    "ITEMS:minecraft:pickaxes": [
+      "~CUSTOM:CopperHoe",
+      "~CUSTOM:CopperShovel",
+      "~CUSTOM:CopperAxe",
+      "~CUSTOM:CopperPickaxe"
+    ],
+    "ITEMS:minecraft:head_armor": [
+      "~CUSTOM:CopperArmor.helmet"
+    ],
+    "ITEMS:minecraft:chest_armor": [
+      "~CUSTOM:CopperArmor.body"
+    ],
+    "ITEMS:minecraft:leg_armor": [
+      "~CUSTOM:CopperArmor.legs"
+    ],
+    "ITEMS:minecraft:foot_armor": [
+      "~CUSTOM:CopperArmor.boots"
+    ]
+  },
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "item.more_tools.copper_sword": "铜剑",
+      "item.more_tools.copper_pickaxe": "铜镐",
+      "item.more_tools.copper_axe": "铜斧",
+      "item.more_tools.copper_shovel": "铜锹",
+      "item.more_tools.copper_hoe": "铜锄",
+      "item.more_tools.copper_armor_chestplate": "铜胸甲",
+      "item.more_tools.copper_armor_boots": "铜靴子",
+      "item.more_tools.copper_armor_helmet": "铜头盔",
+      "item.more_tools.copper_armor_leggings": "铜护腿",
+      "advancements.copper_tools.title": "Copper pickaxe!",
+      "advancements.copper_tools.descr": "Obtain a copper pickaxe"
+    }
+  },
+  "metadata": {
+    "files": [
+      "src/main/java/net/mcreator/moretools/init/MoreToolsModBrewingRecipes.java",
+      "src/main/java/net/mcreator/moretools/init/MoreToolsModItems.java",
+      "src/main/java/net/mcreator/moretools/MoreToolsMod.java",
+      "src/main/resources/META-INF/neoforge.mods.toml",
+      "src/main/resources/pack.mcmeta",
+      "src/main/java/net/mcreator/moretools/init/MoreToolsModTabs.java"
+    ]
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "more_tools",
+    "modName": "More Tools",
+    "version": "0.0.1",
+    "author": "XiaoMianbaoya2",
+    "websiteURL": "https://modrinth.com/mod/more-advancements-1.21+",
+    "license": "Not specified",
+    "serverSideOnly": false,
+    "modPicture": "copper_ingot",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [
+      "jei"
+    ],
+    "currentGenerator": "neoforge-1.21.1",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.moretools"
+  },
+  "mcreatorVersion": 202500345720
+}
