@@ -34,9 +34,8 @@ All copper equipment uses standard vanilla crafting patterns:
 - Copper Armor: 8x Copper Ingots (for full set, standard armor crafting layout)  
 
 ## Future Plans
-- Add custom copper equipment enchantments (e.g., "Corrosion Resistance")
+- More useful for the original ores, such as amethyst, emerald, etc.
 - Introduce other new tool sets (e.g., tin, lead)
-- Balance adjustments based on community feedback
 
 ## Issues & Feedback
 If you encounter bugs with the copper equipment or have suggestions, please open an issue on this repository.
