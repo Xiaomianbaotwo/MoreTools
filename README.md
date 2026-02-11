@@ -17,12 +17,12 @@ A lightweight Minecraft mod that expands the game's tool/equipment system, start
 ❌ Not Started: Other tools and equipment
 
 ## Requirements
-- Minecraft Java Edition: 1.21.9  
-- Mod Loader: NeoForge 21.9.x (compatible with 1.21.9)  
+- Minecraft Java Edition: 1.21.1  
+- Mod Loader: NeoForge 21.1.x (compatible with 1.21.1)  
 - Java Version: 21 (minimum)  
 
 ## Installation
-1. Install NeoForge 21.9.x for Minecraft 1.21.9  
+1. Install NeoForge 21.1.x for Minecraft 1.21.1  
 2. Place the `MoreTools-0.1.0.jar` file into your `.minecraft/mods` folder  
 3. Launch Minecraft with the NeoForge profile  
 
