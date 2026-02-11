@@ -38,6 +38,9 @@ All copper equipment uses standard vanilla crafting patterns:
 ## Issues & Feedback
 If you encounter bugs with the copper equipment or have suggestions, please open an issue on this repository.
 
+## Tips
+- **For more content, see modrinth the changelog.URL:https://modrinth.com/mod/more-tools-1.21.1+**
+
 # 以下是中文介绍
 
 # 更多工具
@@ -76,6 +79,9 @@ If you encounter bugs with the copper equipment or have suggestions, please open
 ## 未来计划
 - 为原版矿石新增实用工具（如紫水晶、绿宝石材质工具等）
 - 引入其他全新工具套装（如锡制、铅制工具）
+
+## 小贴士
+- **更多内容请参见modrinth更新日志。网址:https://modrinth.com/mod/more-tools-1.21.1+**
 
 ## 问题与反馈
 若你在使用铜制装备时遇到漏洞，或有功能建议，欢迎在本代码仓库提交 issue。
