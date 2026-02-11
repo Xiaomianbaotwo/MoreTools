@@ -13,8 +13,7 @@ A lightweight Minecraft mod that expands the game's tool/equipment system, start
 
 ## Development Status
 ✅ Implemented: Copper equipment (full set) from Minecraft 1.21.9  
-🚧 In Progress: Additional tool/equipment types (TBD)  
-❌ Not Started: Other tools and equipment
+🚧 In Progress: Additional tool/equipment types
 
 ## Requirements
 - Minecraft Java Edition: 1.21.1  
@@ -56,8 +55,7 @@ If you encounter bugs with the copper equipment or have suggestions, please open
 
 ## 开发进度
 ✅ 已实现：Minecraft 1.21.9 全套铜制装备  
-🚧 开发中：更多类型的工具/装备（待确定）  
-❌ 未开始：其他工具与装备
+🚧 开发中：更多类型的工具/装备
 
 ## 运行要求
 - Minecraft Java 版：1.21.1  
