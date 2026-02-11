@@ -15,7 +15,7 @@ A lightweight Minecraft mod that expands the game's tool/equipment system, start
 ## Development Status
 ✅ Implemented: Copper equipment (full set) from Minecraft 1.21.9  
 🚧 In Progress: Additional tool/equipment types (TBD)  
-❌ Not Started: Custom enchantments, unique copper equipment effects  
+❌ Not Started: Other tools and equipment
 
 ## Requirements
 - Minecraft Java Edition: 1.21.9  
