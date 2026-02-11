@@ -1,0 +1,13 @@
+{
+  "item.more_tools.copper_sword": "铜剑",
+  "item.more_tools.copper_pickaxe": "铜镐",
+  "item.more_tools.copper_axe": "铜斧",
+  "item.more_tools.copper_shovel": "铜锹",
+  "item.more_tools.copper_hoe": "铜锄",
+  "item.more_tools.copper_armor_chestplate": "铜胸甲",
+  "item.more_tools.copper_armor_boots": "铜靴子",
+  "item.more_tools.copper_armor_helmet": "铜头盔",
+  "item.more_tools.copper_armor_leggings": "铜护腿",
+  "advancements.copper_tools.title": "Copper pickaxe!",
+  "advancements.copper_tools.descr": "Obtain a copper pickaxe"
+}

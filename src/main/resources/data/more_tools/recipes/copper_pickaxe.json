@@ -1,0 +1,16 @@
+{
+    "type":"more_tools:copper_pickaxe",
+    "pattern":[
+        "TTT",
+        " T ",
+        " M "
+    ],
+    "key":{
+        "T":{"item":"minecraft:copper_ingot"},
+        "M":{"item":"minecraft:stick"}
+    },
+    "result":{
+        "item":"more_tools:copper_pickaxe",
+        "count":1
+    }
+}
